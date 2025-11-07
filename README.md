@@ -1,6 +1,6 @@
 # Catálogo de Filmes (IMDB Clone)
 
-Este projeto é um sistema de catálogo de filmes desenvolvido em Java com Spring Boot, simulando funcionalidades básicas do IMDB. O sistema permite cadastrar, consultar, atualizar e remover filmes, diretores e atores, além de associar filmes a seus respectivos diretores e elenco.
+Este projeto é um sistema de catálogo de filmes desenvolvido em Java com Spring Boot, simulando funcionalidades básicas do IMDB. O sistema permite cadastrar, consultar, atualizar e remover filmes, diretores e atores, além de associar filmes a seus respectivos diretores e elenco. O projeto dá continuidade aos estudos em backend do curso da Adatech.
 
 ## Funcionalidades
 - Cadastro de filmes, atores e diretores
@@ -61,5 +61,7 @@ Este projeto é um sistema de catálogo de filmes desenvolvido em Java com Sprin
 - O banco de dados é reiniciado a cada execução (H2 em memória).
 
 ## Autor
-- 
+- **Regiane Gomes**
+- GitHub: [@regigomes](https://github.com/regigomes)
+
 
