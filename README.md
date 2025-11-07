@@ -32,7 +32,7 @@ Este projeto é um sistema de catálogo de filmes desenvolvido em Java com Sprin
    - Gradle instalado (ou use o wrapper `./gradlew`)
 2. **Clone o repositório:**
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/regigomes/catalogo-filmes.git
    ```
 3. **Acesse a pasta do projeto:**
    ```
